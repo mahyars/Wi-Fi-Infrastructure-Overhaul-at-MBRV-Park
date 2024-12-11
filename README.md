@@ -24,10 +24,6 @@ Redesigned and improved the Wi-Fi infrastructure at MBRV Park to enhance connect
 - Overcame environmental constraints for cable routing.
 - Ensured consistent coverage in high-density guest areas.
 
-## Visuals & Diagrams
-![Wi-Fi Network Map](path-to-network-map.png)  
-_Add a network topology or visual representation here._
-
 ## Repository Details
 This repository contains:
 - **Network Configurations**: Example configurations used for setting up the infrastructure.
